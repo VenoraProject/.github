@@ -2,7 +2,7 @@
   <img src="profile/assets/Venora.png" alt="Venora" width="500">
 </p>
 
-Venora is an open-source plugin manager and API for [Fermo](https://github.com/oh64/fermo).
+Venora is an open-source plugin manager and API for [Fermo](https://git.sovrahi.com/oh64/fermo).
 
 The goal is to make it possible to add plugins to Fermo without giving every plugin unrestricted access to the client or the browser.
 
