@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Venora.png" alt="Venora" width="500">
+  <img src="profile/assets/Venora.png" alt="Venora" width="500">
 </p>
 
 Venora is an open-source plugin manager and API for [Fermo](https://github.com/oh64/fermo).
