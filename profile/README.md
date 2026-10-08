@@ -22,8 +22,8 @@ Venora is currently in **Phase 3**, where we're finishing the plugin API, runtim
 
 ### Repositories
 
-- **Venora** — plugin manager, runtime, API, tests, and bundled plugins
-- **Venora-site** — project website and documentation
+- **Venora** - plugin manager, runtime, API, tests, and bundled plugins
+- **Venora-site** - project website and documentation
 
 More repositories will be added as the project grows.
 
